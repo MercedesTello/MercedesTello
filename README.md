@@ -26,7 +26,7 @@ You cant find me:
 
 <a href="https://www.linkedin.com/in/mercedes-tello-españa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-<a href="https://www.facebook.com/Merc-Tello" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://www.facebook.com/profile.php?id=100073722244309" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 
 <a href="https://www.tiktok.com/@la_gorda_programadora" target="_blank"><img src"https://img.shields.io/badge/Tiktok-%231877F2.svg?&style=flat-square&logo=tiktok&logoColor=white" alt="Tiktok"></a> 
 
