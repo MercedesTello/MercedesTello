@@ -12,7 +12,7 @@ const merc = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, Trello, Figma, Git, Github, SCRUM, Slack],
   tools: [Node],
-  skills: [responsible, engaged, creative, collaborative, initiative, leadership, productivity],
+  skills: [responsible, creative, collaborative, initiative, leadership, productivity],
   passions: [to create, to learn, innovate]
   
  challenge: "creating each project from the beginning and being able to investigate and learn, will always be new challenges"
