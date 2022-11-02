@@ -4,7 +4,7 @@
 </em></p>
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const thai = {
