@@ -1,6 +1,6 @@
 ![me](https://user-images.githubusercontent.com/108855237/199408837-b9111483-c8f2-408f-a367-ce4307572a95.png)
 <h2> Hi, I'am Merc Tello! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="250">
 <p><em>Front-End Developer <a href="http://www.unb.br">Laboratoria</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
 </em></p>
 
@@ -30,5 +30,8 @@ You cant find me:
 
 <a href="https://www.tiktok.com/@la_gorda_programadora" target="_blank"><img src"https://img.shields.io/badge/Tiktok-%231877F2.svg?&style=flat-square&logo=tiktok&logoColor=white" alt="Tiktok"></a> 
 
+<p align="center">
+<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="110"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="110"><img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width ="110"/> 
+</p>
 
 ⭐️ From [@MercedesTello](https://github.com/MercedesTello)
