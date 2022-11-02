@@ -12,7 +12,8 @@ const merc = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, Trello, Figma, Git, Github, SCRUM, Slack],
   tools: [Node],
-  skills: [responsible, engaged, creative, collaborative, initiative, leadership, productivity]
+  skills: [responsible, engaged, creative, collaborative, initiative, leadership, productivity],
+  passions: [to create, to learn, innovate]
   
  challenge: "creating each project from the beginning and being able to investigate and learn, will always be new challenges"
 }
@@ -24,4 +25,6 @@ const merc = {
 You cant find me:
 - [Linkedin](www.linkedin.com/in/mercedes-tello-españa)
 - [Tik Tok](https://www.tiktok.com/@la_gorda_programadora)
+
+
 ⭐️ From [@MercedesTello](https://github.com/MercedesTello)
