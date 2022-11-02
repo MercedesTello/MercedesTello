@@ -25,5 +25,4 @@ const merc = {
 You cant find me:
 - [Linkedin](www.linkedin.com/in/mercedes-tello-españa)
 - [Tik Tok](https://www.tiktok.com/@la_gorda_programadora)
--  
 ⭐️ From [@MercedesTello](https://github.com/MercedesTello)
