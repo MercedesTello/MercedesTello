@@ -35,3 +35,5 @@ You can find me:
 </p>
 
 ⭐️ From [@MercedesTello](https://github.com/MercedesTello)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MercedesTello)
