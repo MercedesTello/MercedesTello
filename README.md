@@ -38,5 +38,5 @@ You can find me:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MercedesTello)
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=800080)](https://open.spotify.com/user/pt1ate)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pt1ate&cover_image=true&theme=default&show_offline=false&background_color=dfbebe)](https://github.com/kittinan/spotify-github-profile)
+&nbsp; 
+<br>[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pt1ate&cover_image=false&theme=default&show_offline=false&background_color=2e0b32&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=pt1ate&redirect=true)</b>
