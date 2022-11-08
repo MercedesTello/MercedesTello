@@ -30,15 +30,20 @@ You can find me:
 <a href="https://www.tiktok.com/@la_gorda_programadora" target="_blank"><img src="https://img.shields.io/badge/Tiktok-%231877F2.svg?&style=flat-square&logo=tiktok&logoColor=white" alt="Tiktok"></a>
 
 
-<p align="center">
-<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width ="100"><img src= "https://media.giphy.com/media/axwMQreFDFc56Pyz8C/giphy.gif" width="90"><img src= "https://media.giphy.com/media/q9Bt41UfVX46hcmNh7/giphy.gif" width="60">
-</p>
+
 
 ⭐️ From [@MercedesTello](https://github.com/MercedesTello)
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MercedesTello)
+&nbsp;
+  
 ### Visitor count
 <img src="https://profile-counter.glitch.me/MercedesTello/count.svg" />
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MercedesTello)
-&nbsp; 
+ 
 <br>[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pt1ate&cover_image=false&theme=default&show_offline=false&background_color=2e0b32&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=pt1ate&redirect=true)</b>
+
+<p align="center">
+<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width ="100"><img src= "https://media.giphy.com/media/axwMQreFDFc56Pyz8C/giphy.gif" width="90"><img src= "https://media.giphy.com/media/q9Bt41UfVX46hcmNh7/giphy.gif" width="60">
+</p>
