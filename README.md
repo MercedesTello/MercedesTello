@@ -1,5 +1,8 @@
 ![me](https://user-images.githubusercontent.com/108855237/199408837-b9111483-c8f2-408f-a367-ce4307572a95.png)
-<h2> Hi, I'am Merc Tello! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/MercedesTello/readme-typing-svg -->
+  <a href="https://github.com/MercedesTello/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Front-End%20Developer;Experienced%20UI;%20Laboratoria%20Student%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000" /></a>
+  
 <img align='right' src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="250">
 <p><em>Front-End Developer <a href="http://www.unb.br">Laboratoria</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
 </em></p>
@@ -35,6 +38,8 @@ You can find me:
 </p>
 
 ⭐️ From [@MercedesTello](https://github.com/MercedesTello)
+### Visitor count
+<img src="https://profile-counter.glitch.me/MercedesTello/count.svg" />
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MercedesTello)
