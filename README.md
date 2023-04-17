@@ -9,7 +9,7 @@
 ```javascript
 const merc = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS, Trello, Figma, Git, Github, SCRUM, Slack],
+  code: [Javascript, React, HTML, CSS, Trello, Figma, Git, Github, SCRUM, Slack],
   tools: [Node],
   skills: [responsible, creative, collaborative, initiative, leadership, productivity],
   passions: [to create, to learn, innovate]
